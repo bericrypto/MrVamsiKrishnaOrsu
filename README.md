@@ -5,5 +5,5 @@ I'm a computer science engineering student currently in the final year. I know b
 
 ### What is the best pentester certification which is renowned and under around 40k rupees or less?
 
-Thank you, (to Vamsi)
+Thank you, (to Vamsi)  
 Vamshi. (by Vamshi) 
